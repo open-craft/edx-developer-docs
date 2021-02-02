@@ -168,6 +168,12 @@ Themes ("comprehensive theming")
 
 Changing the look and feel of the edX platform is generally done by creating a new "theme". See `Changing Themes for an Open edX Site`_ for documentation. Note that most theming documentation applies to the legacy UI components used in edX, which are .html files (django/mako templates) rendered by the backend and styled using either the "v1" or "v2" (a.k.a. "Pattern Library") stylesheets. However, the platform UI is slowly being replaced by new React-based "micro-frontends" (MFEs), and a different approach is required for theming MFEs (see `Theming Micro-frontends`_).
 
+Robert's new section
+====================
+
+* Some words and a carriage return
+  and indent.
+
 Theming micro-frontends
 =======================
 
