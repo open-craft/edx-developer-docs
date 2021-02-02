@@ -80,6 +80,8 @@ If you want to contribute to the Open edX repositories, see :doc:`all_developmen
 * :doc:`extending/xblocks`
 * :doc:`extending/javascript`
 * :doc:`extending/js_template_example`
+* :doc:`extending/crlf`
+
 
 .. The "JavaScript template" should be a subtopic of "adding custom JS applications."
 
@@ -91,6 +93,7 @@ If you want to contribute to the Open edX repositories, see :doc:`all_developmen
    extending/xblocks
    extending/javascript
    extending/js_template_example
+   extending/crlf
 
 Technical reference
 ===================
